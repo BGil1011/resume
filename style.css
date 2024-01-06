@@ -1,0 +1,13 @@
+form{
+    display: flex;
+  flex-direction: column;
+  max-width: min-content;
+}
+input {
+    margin-bottom:10px;
+}
+.error{
+    background-color: rgb(87, 3, 3);
+    color:white;
+    margin-top:0 ;
+}
